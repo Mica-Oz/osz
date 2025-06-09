@@ -1,5 +1,5 @@
-import React from "react";
-import oz from "./oz.jpeg";
+// import React from "react";
+// import oz from "./oz.jpeg";
 // import viteLogo from '/vite.svg'
 import "./App.css";
 
@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-      <img src={oz} className="oz" alt="OZ logo" />
+      {/* <img src={oz} className="oz" alt="OZ logo" /> */}
+      <p>hi</p>
     </>
   );
 }
