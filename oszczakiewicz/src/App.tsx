@@ -1,5 +1,5 @@
 import React from "react";
-import oz from "../public/oz.jpeg";
+import oz from "./oz.jpeg";
 // import viteLogo from '/vite.svg'
 import "./App.css";
 
